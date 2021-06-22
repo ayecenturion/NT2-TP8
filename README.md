@@ -1,4 +1,4 @@
-# tp6-axios-post-formulario
+# tp8-Vuex-Mixins
 
 ## Project setup
 ```
